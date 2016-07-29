@@ -1,2 +1,3 @@
 # TalkingData-Mobile---kaggle
-my solution(simple) codes
+
+this repo is my simple solution for the kaggle compatation(talkingdata mobile    user demographics )
